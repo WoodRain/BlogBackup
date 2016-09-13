@@ -5,7 +5,7 @@ categories: ComputerGraphics4th
 ---
 最近刚好有些时间，打算学习一下图形学相关的理论知识，选定的课本为Computer Graphics with OpenGL (4th edition) 影印版. 之前对DirectX比较熟悉，这次也算是顺便学习下OpenGL的使用。 
 # 本机环境
-+ Windows 10 10586 x64 (
++ Windows 10 10586 x64 
 > 其实我配置的都是Debug/x86这样的编译组合...
 + Visual Studio 2015 Community Edition
 + WDK 8.1/10240/10586. （以8.1为主， 切换其他WDK也很方便，不赘述）。
@@ -46,4 +46,4 @@ categories: ComputerGraphics4th
 # 额外信息 
 + 顺便建立了一个repo用来保存学习过程中的各个项目
 + 更新时间不定，完全跟个人空闲时间挂钩...
-+ 习题解答一般就放在工程repo中
++ 习题解答一般就放在[工程repo](https://github.com/WoodRain/ComputerGraphicsOpenGL)中
